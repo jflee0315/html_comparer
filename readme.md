@@ -1,6 +1,6 @@
 # Project Comparer
 
-## Description:
+## Description
 
 Compare two html documents, ignoring all the tags and scripts, and generate the difference report.
 
@@ -17,7 +17,7 @@ Some use cases including scenarios when you want to detect updates of a public A
 4. After execution, there should be an output file named "output.html" being generated. Open the file with any browser and take a look. It should display the difference between the two input file.
 
 
-## Exeternal libraries:
+## Exeternal libraries
 
 The comparison tool developed by Google
 https://github.com/google/diff-match-patch
