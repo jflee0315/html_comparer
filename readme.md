@@ -16,8 +16,6 @@ Some use cases including scenarios when you want to detect updates of a public A
 3. Execute the main.py with python3 (I use 3.7.0).
 4. After execution, there should be an output file named "output.html" being generated. Open the file with any browser and take a look. It should display the difference between the two input file.
 
-Note: Please make sure the differences between the files are of "content", not in scripts or tags.
-For instance, "<div abc></div>" and "<div different?></div>" will be viewed as the same. On the other hand, "<div abc>A content</div>" "<div abc>B content</div>" is different since the content is different(A -> B).
 
 ## Exeternal libraries:
 
@@ -26,4 +24,5 @@ https://github.com/google/diff-match-patch
 
 ## Author
 
-Hsiu-chih Lee
+Jeffrey Lee 
+https://github.com/jflee0315/html_comparer
