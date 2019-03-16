@@ -1,5 +1,3 @@
-# Project Comparer
-
 ## Description
 
 Compare two html documents, ignoring all the tags and scripts, and generate the difference report.
